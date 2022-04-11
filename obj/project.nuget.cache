@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Awp52S2zabhwGIFx/8oE474gycpmJxYNLZ+AWdWgJI6cO4ubxpPCRWk1CoSzXApxFoF5qjYHi382DH6aSe5sng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\robetorobatox186\\Desktop\\hotelfsharp\\hotelfsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robetorobatox186\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
